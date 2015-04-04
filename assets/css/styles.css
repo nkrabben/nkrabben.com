@@ -2,6 +2,11 @@
 	float: right;
 }
 
+h4 {
+	margin-top: 18px;
+	margin-bottom: 0px;
+}
+
 #footer svg{
 	margin-left: 16px;
 	width: 16px;
