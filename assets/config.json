@@ -156,8 +156,8 @@
     "@navbar-default-brand-color": "@navbar-default-link-color",
     "@navbar-default-brand-hover-color": "darken(@navbar-default-brand-color, 10%)",
     "@navbar-default-brand-hover-bg": "transparent",
-    "@navbar-default-toggle-hover-bg": "#ddd",
-    "@navbar-default-toggle-icon-bar-bg": "#888",
+    "@navbar-default-toggle-hover-bg": "#f8f8f8",
+    "@navbar-default-toggle-icon-bar-bg": "#f8f8f8",
     "@navbar-default-toggle-border-color": "#ddd",
     "@navbar-inverse-color": "lighten(@gray-light, 15%)",
     "@navbar-inverse-bg": "#222",
@@ -408,5 +408,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=f26bdaa66895e2954f64"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=87ab60a07fa12bb45c0d"
 }
