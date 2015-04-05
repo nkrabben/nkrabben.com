@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Experience
-permalink: /experience/
+title: Work
+permalink: /work/
 ---
 
 {% assign sorted_exp = site.data.experience %}
