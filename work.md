@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-{% assign sorted_exp = site.data.experience %}
+{% assign sorted_exp = site.data.work%}
 
 {% for exp in sorted_exp  %}
 <div id="experience{{ forloop.index }}" class="experience">
