@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-{% assign sorted_pub = site.data.publications %}
+{% assign sorted_pub = site.data.writing %}
 
 {% for pub in sorted_pub  %}
 <div id="publication{{ forloop.index }}" class="publication">
