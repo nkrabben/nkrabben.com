@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Writing
+permalink: /writing/
 ---
 
 {% assign sorted_pub = site.data.publications %}
