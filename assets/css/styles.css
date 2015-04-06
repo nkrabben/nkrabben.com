@@ -13,6 +13,12 @@
 	float: right;
 }
 
+@media (max-width: 767px) {
+	.navbar-nav {
+		float: left;
+	}
+}
+
 body {
 	padding-top: 40px;
 }
