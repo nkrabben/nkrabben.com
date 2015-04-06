@@ -8,11 +8,11 @@ permalink: /speaking/
 
 {% for pres in sorted_pres  %}
 <div id="presentation{{ forloop.index }}" class="presentation">
-	<a class="accordion-toggle" data-toggle="collapse" data-text-swap="&and;" href="#desc{{ forloop.index }}">&or;</a>
 	<h2><a href="{{ pres.url }}">{{ pres.title }}</a></h2>
-	<p class="about">{{ pres.author }}<br /><a href="{{ pres.conf_url }}">{{ pres.conf }}</a>, {{pres.date | date: "%Y %b %d" }}</p>
+	<p class="about"><a href="{{ pres.conf_url }}">{{ pres.conf }}</a>, {{pres.date | date: "%Y %b %d" }}</p>
+	<a class="accordion-toggle" data-toggle="collapse" data-text-swap="Details -" href="#desc{{ forloop.index }}">Details +</a>
 	<div id="desc{{ forloop.index }}" class="accordion-body collapse">
-		<p>{{ pres.desc }}</p>
+		<p>Presenter(s): {{ pres.author }}<br />Summary: {{ pres.desc }}</p>
 	</div>
 </div>
 {% endfor %}

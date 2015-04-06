@@ -12,7 +12,7 @@ permalink: /writing/
 	<p class="about">{{ pub.publisher }}, {{pub.date | date: "%Y %b %d" }}</p>
 	<a class="accordion-toggle" data-toggle="collapse" data-text-swap="Details -" href="#desc{{ forloop.index }}">Details +</a>
 	<div id="desc{{ forloop.index }}" class="accordion-body collapse">
-		<p class="about">{% if pub.author != null %}Author(s): {{ pub.author }}{% else %}Editor(s): {{ pub.editor }}{% endif %}<br/>Description: {{ pub.desc }}</p>
+		<p class="about">{% if pub.author != null %}Author(s): {{ pub.author }}{% else %}Editor(s): {{ pub.editor }}{% endif %}<br/>Summary: {{ pub.desc }}</p>
 	</div>
 </div>
 {% endfor %}
