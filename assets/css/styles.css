@@ -27,7 +27,7 @@ h2, h3, h4 {
 	margin-bottom: 0px;
 }
 
-.position h2 {
+.position h2, .presentation h3, .publication h3 {
 	display: inline;
 }
 
