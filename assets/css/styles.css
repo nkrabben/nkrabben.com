@@ -33,6 +33,16 @@ h2, h3, h4 {
 	margin-bottom: 0px;
 }
 
+.home .img {
+	padding-left: 0px;
+}
+
+@media (max-width: 767px) {
+	.home .about {
+		padding-left: 0px;
+	}
+}
+
 .experience, .publication, .presentation {
 	margin-bottom: 12.5px;
 }
