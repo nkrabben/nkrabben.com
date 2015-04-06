@@ -8,6 +8,10 @@ baseurl : "" # the subpath of your site, e.g. /blog/
 url : "http://nkrabben.com" # the base hostname & protocol for your site
 twitter_username : nkrabben
 github_username :  nkrabben
+analytics_id : "UA-30324326-1"
 
 # Build settings
 markdown: kramdown
+
+# Analytics
+     
