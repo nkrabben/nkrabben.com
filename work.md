@@ -15,13 +15,12 @@ permalink: /work/
 		<div id="projects{{ forloop.index }}" class="accordion-body collapse projects">
 			{% for proj in exp.projects %}
 			<h4>{% if proj.url != null %}<a href="{{ proj.url }}">{{ proj.title }}</a>{% else %}{{ proj.title }}{% endif %}</h4>
-			<p>{% if proj.startdate != null %}{{ proj.startdate | date: "%Y %b %d" }} - {% if proj.enddate != null %}{{ proj.enddate | 	date: "%Y %b %d"}}{% else %}Current{% endif %}{% endif %}<br />Purpose: {{ proj.purpose }}<br />
+			<p>{% if proj.startdate != null %}{{ proj.startdate | date: "%Y %b %d" }} - {% if proj.enddate != null %}{{ proj.enddate | 	date: "%Y %b %d"}}{% else %}Current{% endif %}{% endif %}<br />Purpose: {{ proj.purpose }}<br /></p>
 			<ul>
 				{% for task in proj.tasks %}
 				<li>{{ task }}</li>
 				{% endfor %}
 			</ul>
-			</p>
 			{% endfor %}
 		</div>
 	</div>
