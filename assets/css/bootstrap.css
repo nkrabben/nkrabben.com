@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=87ab60a07fa12bb45c0d)
- * Config saved to config.json and https://gist.github.com/87ab60a07fa12bb45c0d
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=c5d35459f15534d511b8)
+ * Config saved to config.json and https://gist.github.com/c5d35459f15534d511b8
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -1101,12 +1101,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #003366;
+  color: #004c99;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #000d1a;
+  color: #003366;
   text-decoration: underline;
 }
 a:focus {
@@ -1269,19 +1269,19 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 36px;
+  font-size: 30px;
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 27px;
 }
 h3,
 .h3 {
-  font-size: 27px;
+  font-size: 24px;
 }
 h4,
 .h4 {
-  font-size: 24px;
+  font-size: 21px;
 }
 h5,
 .h5 {
@@ -3017,7 +3017,7 @@ fieldset[disabled] .btn-danger.active {
   background-color: #ffffff;
 }
 .btn-link {
-  color: #003366;
+  color: #004c99;
   font-weight: normal;
   border-radius: 0;
 }
@@ -3038,7 +3038,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #000d1a;
+  color: #003366;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -3288,7 +3288,7 @@ tbody.collapse.in {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #cccccc;
-  border-color: #003366;
+  border-color: #004c99;
 }
 .nav .nav-divider {
   height: 1px;
@@ -4100,7 +4100,7 @@ a.label:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #003366;
+  border-color: #004c99;
 }
 .thumbnail .caption {
   padding: 9px;
