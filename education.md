@@ -4,7 +4,7 @@ title: Education
 permalink: /education/
 ---
 
-<div class="education">
+<div id="education" class="education even">
 	<h2>University of Michigan, Masters of Science in Information</h2>
 	<p>Digital Curation and Records Management<br />2011 August - 2013 May<br />Ann Arbor, MI</p>
 	<h2>Koç University, Masters of Art</h2>
