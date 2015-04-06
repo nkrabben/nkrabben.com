@@ -27,6 +27,14 @@ h2, h3, h4 {
 	margin-bottom: 0px;
 }
 
+.experience {
+	margin-bottom: 12.5px;
+}
+
+p.about  {
+	margin-bottom: 0px;
+}
+
 .experience h2, .presentation h3, .publication h3, .skills h3 {
 	display: inline;
 }
