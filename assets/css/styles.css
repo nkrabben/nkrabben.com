@@ -28,8 +28,8 @@ body {
 	padding-bottom: 0px;
 }
 
-h2, h3, h4 {
-	margin-top: 18px;
+h2, h3, h4{
+	margin-top: 0px;
 	margin-bottom: 0px;
 }
 
@@ -43,8 +43,16 @@ h2, h3, h4 {
 	}
 }
 
-.experience, .publication, .presentation {
+.experience, .skills{
+	padding-left :0px;
+}
+
+.experience, .publication, .presentation, .project {
 	margin-bottom: 12.5px;
+}
+
+.group {
+	clear: both;
 }
 
 p.about  {
@@ -55,14 +63,9 @@ p.about  {
 	display: inline;
 }
 
-.skills {
-	padding-left: 0px;
-}
-
 .accordion-toggle, .accordion-toggle:hover, .accordion-toggle:focus {
 	color: #5bc0de;
 	text-decoration: none;
-	font-size: 24px;
 }
 
 #footer svg{
