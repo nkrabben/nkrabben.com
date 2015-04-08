@@ -57,11 +57,11 @@
           US
       tasks: 
         - >-
-          Analyze geographic distribution of leadership programs for white
-          paper.
+          Analyze <a href="http://www.educopia.org/publications/t21cll">
+          geographic distribution</a> of leadership programs.
         - >-
-          Design schema and collect program data for a dataset of over 90 past
-          and present leadership programs.
+          Design schema and collect program data for a dataset of over 90
+          leadership programs.
         - >-
           Coordinate two all-project meetings at the <a href="http://ccl.org"> 
           Center for Creative Leadership</a> in Greensboro, NC.
@@ -72,21 +72,22 @@
       enddate: 2014-09-30
       purpose: >-
           To document strategies to preserve digitized and born-digital 
-          newspapers, to create lightweight tools to assist in curation, 
-          and to test the ingest dissemination with 3 distributed digital 
-          preservation systems.
+          newspapers, to create curation lightweight tools, 
+          and to test ingest and dissemination processes of
+          3 distributed digital preservation systems.
       tasks: 
         - >-
           Document the usage of <a href="https://github.com/LibraryOfCongress
           /bagit-python"> bagit-python</a> and <a href="https://github.com/
           LibraryOfCongress/bagger">bagger</a>.
         - >-
-          Contribute to drafts of the Guidelines for Digital Newspaper 
-          Preservation Readiness and perform final editing and layout for
-          publication.
+          Contribute to drafts of the <a href="http://www.educopia.org/publications/gdnpr">
+          Guidelines for Digital Newspaper Preservation Readiness</a> and
+          perform final editing and layout for publication.
         - >-
-          Coordinate a two-pronged international review of the Guidelines
-          for Digital Newspaper Preservation Readiness by deploying a 
+          Coordinate a two-pronged international review of the 
+          <a href="http://www.educopia.org/publications/gdnpr">Guidelines
+          for Digital Newspaper Preservation Readiness</a> by deploying a 
           CommentPress site and distributing PDFs via email.
         - Schedule and record regular project meetings.
     - title: Lifecycle Management of ETDs
@@ -99,7 +100,7 @@
       tasks: 
         - >-
           Design pre- and post-workshop surveys to evaluate the effectiveness
-          of the training.
+          of training.
         - >-
           Coordinate multi-stage review process of the Guidance Documents
           for ETD Lifecycle Management through campus brown bags, the project
@@ -115,7 +116,7 @@
       tasks: 
         - >-
           Collaborate on schema design and data collection for over 300
-          projects with more than 2000 total participants.  
+          projects representing more than 2000 total organizations.  
 - position: Consultant
   company: CodedCulture
   company_url: http://www.codedculture.org
@@ -137,8 +138,8 @@
           Create an Excel workform to collect EAC-CPF data and VBA script to
           transform completed workforms into XML.
         - >-
-          Contribute to the evaluation and selection of archival data 
-          management system for implementation.
+          Contribute to the evaluation and selection of an archival data 
+          management system.
     - title: DPOE 2014 Survey Analysis
       url: 
       startdate: 2015-01-12
@@ -197,7 +198,7 @@
           Conduct in depth research for all publicly available resources on the
           history and operation of both systems.
         - >-
-          Interview members of the Tessella team for further information
+          Interview members of the Tessella team for further information.
 - position: Data Curation Consultant
   company: MATRIX
   company_url: http://www.matrix.msu.edu
@@ -206,7 +207,7 @@
   startdate: 2011-09-03
   enddate: 2013-07-03
   projects:
-    - title: Slave Voyages Data Management Plane
+    - title: Slave Voyages Data Management Plan
       url: 
       startdate: 2013-03-23
       enddate: 2013-07-06
@@ -215,10 +216,12 @@
         on future projects.
       tasks:
         - >-
-          Test available data management plan tools, including DMPOnline and DMPTool.
+          Test available data management plan tools, including 
+          <a href="http://dmponline.com">DMPOnline</a> and 
+          <a href="http://dmptool.com">DMPTool</a>.
         - >-
           Research the legal status of intellectual property rights
-          regarding databases.
+          for databases.
 - position: Digital Curation Specialist
   company: University of Michigan
   company_url: http://www.umich.edu
