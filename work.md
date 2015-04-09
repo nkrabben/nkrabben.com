@@ -8,9 +8,9 @@ permalink: /work/
 <div id="experience">
 	{% for exp in sorted_exp  %}<div class="group">
 		<div id="experience{{ forloop.index }}" class="experience col-sm-4">
-			<h2><a href="{{ exp.company_url }}">{{ exp.company }}</a>, {{ exp.position }}</h2> 
+			<h2><a href="{{ exp.company_url }}">{{ exp.company }}</a>, {{ exp.position }}</h2>
 			<p class="about">{{ exp.startdate | date: "%Y %b %d" }} - {% if exp.enddate != null %}{{ exp.enddate | date: "%Y %b %d"}}{% else %}Current{% endif %}, {{exp.location}}</p>
-			<a class="accordion-toggle" data-toggle="collapse" data-text-swap="Projects -" href="#projects{{ forloop.index }}">Projects +</a>
+			<a class="accordion-toggle btn btn-info" data-toggle="collapse" data-text-swap="Hide Projects" href="#projects{{ forloop.index }}">See Projects</a>
 		</div>
 		<div id="projects{{ forloop.index }}" class="accordion-body collapse projects col-sm-8">{% for proj in exp.projects %}
 			<div class="project">
