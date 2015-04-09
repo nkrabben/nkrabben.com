@@ -67,6 +67,18 @@ p.about  {
 	text-decoration: none;
 }
 
+.skills>div {
+	height: 40px;
+}
+
+.skills>div h3 {
+	vertical-align: middle;
+}
+
+.skills .btn {
+  padding: 4px 12px;
+}
+
 #footer svg{
 	margin-left: 16px;
 	width: 16px;
