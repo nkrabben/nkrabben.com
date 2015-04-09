@@ -8,4 +8,5 @@ $(document).ready(function(){
     		el.text(el.data("text-swap"));
   		}
 	});
+	$('.accordion-toggle').first().trigger('click');
 });
