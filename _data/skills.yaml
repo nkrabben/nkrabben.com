@@ -1,49 +1,59 @@
-cat: Archive/Library/Museum
-  - subcat: Collection Management Systems
-      - skill: Archivists’ Toolkit
-      - skill: Archon
-      - skill: ASpace
-      - skill: ContentDM
-      - skill: EMu
-      - skill: ICA-Atom
-  - subcat: Digital Preservation Systems
-      - skill: Archivematica
-      - skill: BagIt
-      - skill: LOCKSS
-      - skill: Preservica
-      - skill: Rosetta
-  - subcat: Metadata Standards
-      - skill: Dublin Core
-      - skill: EAC-CPF
-      - skill: EAD
-      - skill: MARC
-      - skill: METS
-      - skill: MODS
-      - skill: PREMIS
-  - subcat: "Languages (Reading, Speaking)"
-      - skill: "Turkish (Advanced, Intermediate)"
-      - skill: "German (Intermediate, Intermediate)"
-      - skill: "Spanish (Intermediate, Intermediate)"
-      - skill: "French (Intermediate, NA)"
-      - skill: "Ottoman (Intermediate, NA)"
-cat: Technical
-  - subcat: Programming Languages
-      - skill: R
-      - skill: Python
-      - skill: Javascript
-      - skill: PHP
-      - skill: VBA
-  - subcat: Content Management Systems
-      - skill: Drupal
-      - skill: MediaWiki
-      - skill: Wordpress
-  - subcat: Markup Languages
-      - skill: Markdown
-      - skill: HTML
-      - skill: XML
-      - skill: LaTeX
-      - skill: JSON
-      - skill: YAML
-  - subcat: Software
-      - skill: ARCDesktop
-      - skill: Microsoft Office w/VBA
+- category: "Archive/Library/Museum"
+  subcategories:
+    - name: Collection Management Systems
+      skills: 
+        - skill: "Archivists’ Toolkit"
+        - skill: Archon
+        - skill: ASpace
+        - skill: ContentDM
+        - skill: EMu
+        - skill: ICA-Atom
+    - name: Digital Preservation Systems
+      skills:
+        - skill: Archivematica
+        - skill: BagIt
+        - skill: LOCKSS
+        - skill: Preservica
+        - skill: Rosetta
+    - name: Metadata Standards
+      skills:
+        - skill: Dublin Core
+        - skill: EAC-CPF
+        - skill: EAD
+        - skill: MARC
+        - skill: METS
+        - skill: MODS
+        - skill: PREMIS
+    - name: "Languages (Reading, Speaking)"
+      skills:
+        - skill: "Turkish (Advanced, Intermediate)"
+        - skill: "German (Intermediate, Intermediate)"
+        - skill: "Spanish (Intermediate, Intermediate)"
+        - skill: "French (Intermediate, NA)"
+        - skill: "Ottoman (Intermediate, NA)"
+- category: Technical
+  subcategories:
+    - name: Programming Languages
+      skills:
+        - skill: R
+        - skill: Python
+        - skill: Javascript
+        - skill: PHP
+        - skill: VBA
+    - name: Content Management Systems
+      skills:
+        - skill: Drupal
+        - skill: MediaWiki
+        - skill: Wordpress
+    - name: Markup Languages
+      skills:
+        - skill: Markdown
+        - skill: HTML
+        - skill: XML
+        - skill: LaTeX
+        - skill: JSON
+        - skill: YAML
+    - name: Software
+      skills:
+        - skill: ARCDesktop
+        - skill: Microsoft Office w/VBA
