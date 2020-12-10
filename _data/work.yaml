@@ -1,10 +1,115 @@
+- position: Manager, Digital Preservation
+  company: New York Public Library
+  company_url: http://www.nypl.org
+  company_img: 
+  location: "New York, NY"
+  startdate: 2015-12-01
+  enddate:
+  projects:
+    - title: Digital Preservation Policy and Documentation
+      url: 
+      startdate: 2017-07-01
+      enddate: 
+      purpose: >-
+        Author NYPL's first digital preservation policy and publish supporting documentation.
+    - title: Digital Archives Program
+      url: 
+      startdate: 2018-09-01
+      enddate: 
+      purpose: >-
+        Manage NYPL's Digital Archives Program to stabilize born-digital content collected
+        as part of archival acquisitions.
+      tasks:
+        - >-
+          Manage and maintain lab hardware, including 6 workstations, fiber-to-desktop deployments,
+          and specialized media reading hardware.
+        - >-
+          Publish lab <a href="https://nypl.github.io/digarch/"documentation</a> on processes and
+          policies to centralize information, inform internal stakeholders, and share with larger
+          digital archives community.
+        - >-
+          Sponsor increased automation and mass transfer processes in lab workflows in response to changing
+          composition of born-digital acquisitions and decreased value of forensic processes.
+    - title: Digitization Ingest Support
+      url: 
+      startdate: 2015-12-01
+      enddate: 
+      purpose: >-
+        Collaborate with image, audio, and video digitization programs to create specifications for
+        receipt and ingest of files.
+      tasks:
+        - >-
+          Work with programs to test and advocate for adoption of lossless compression standards, MKV/FFV1
+          for video and film, FLAC/FLAC and MKA/FLAC for audio, and TIFF/ZIP and TIFF/LZW for images.
+        - >-
+          Develop JSON Schema-based <a href="https://github.com/NYPL/ami-metadata">metadata serialization</a>
+          for audio and video digitization for automated, field-level validation.
+        - >-
+          Develop python library, <a href="https://github.com/NYPL/ami-tools">ami-tools</a>, for conversion
+          of legacy digitized audio and video package to current standards.
+        - >-
+          Acting as primary stakeholder for agile development team responsible for supporting audio and video
+          ingest software.
+    - title: Digital Repository Software
+      url: 
+      startdate: 2016-05-01
+      enddate: 
+      purpose: >-
+        Selecting software to centralize management of NYPL's digital collections.
+      tasks:
+        - >-
+          Evaluate and audit current software, including code reads, dependency documentation,
+          and comparison to standards such as NDSA Levels of Preservation.
+        - >-
+          Advocate for new software implementation through interviews with peer institutions,
+          meeting with vendors, internal presentations, and written reports.
+        - >-
+          Changing strategies from open-source platforms (Archivematica, Fedora) to commercial platforms
+          in response to shifting organizational strategic priorities
+        - >-
+          Drafting functional requirements, use cases, and RFP for new software proposals, overseen
+          by Digital Asset Management Portfolio Group.
+        - Evaluating proposals and designing sandbox testing criteria.
+    - title: On-prem storage expansion
+      url: 
+      startdate: 2015-12-01
+      enddate: 2019-12-31
+      purpose: >-
+        Expand NYPL's capacity to transfer and store 5+ petabytes of files created by
+        digitization and born-digital collection programs.
+      tasks:
+        - Evaluate tenders from 10+ storage vendors.
+        - Design requirements for fiber-to-desktop deployment and provide on-site support.
+        - Support intermediate transfer projects with scripting.
+- position: Visiting Assistant Professor
+  company: Pratt Institute
+  company_url: http://www.pratt.edu
+  company_img: 
+  location: "New York, NY"
+  startdate: 2017-08-01
+  enddate:
+  projects:
+    - title: LIS655 Digital Preservation and CUration
+      url: 
+      startdate: 2017-08-01
+      enddate: 
+      purpose: >-
+        Introduce students to the management of digitized and born-digital collections from
+        acquisiton to access.
+      tasks:
+        - >-
+          Create and update syllabus to respond to student requests and field developments,
+          such as time-based media conservation and IIIF.
+        - >-
+          Develop live-coding exercises to introduce command-line tools.
+        - Lead optional workshops on using Python and ffmpeg with digital collections.
 - position: Project Manager
   company: Educopia Institute
   company_url: http://www.educopia.org
   company_img: 
   location: "New York, NY"
   startdate: 2012-11-01
-  enddate: 
+  enddate: 2015-11-01
   projects:
     - title: ETDplus
       url: http://www.educopia.org/research/etd
