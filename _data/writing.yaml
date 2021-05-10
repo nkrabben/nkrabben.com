@@ -6,15 +6,33 @@
   publisher: Code4Lib Journal
   date: Forthcoming
   desc: >-
+    NYPL’s workflow for transferring optical media to long-term
+    storage was met with a challenge: an acquisition of a collection 
+    containing thousands of recordable CDs and DVDs. Many programs 
+    take a disc-by-disc approach to imaging or transferring optical 
+    media, but to deal with a collection of this size, NYPL developed 
+    a workflow using a Nimbie AutoLoader and a customized version of 
+    KBNL’s open-source IROMLAB software to batch discs for transfer. 
+    This workflow prioritized quantity, but, at the outset, it was 
+    difficult to tell if every transfer was as accurate as it could 
+    be. We discuss the process of evaluating the success of the mass 
+    transfer workflow, and the improvements we made to identify and 
+    troubleshoot errors that could occur during transfer. A background 
+    of the institution and other institutions’ approaches to similar 
+    projects is given, then an in-depth discussion of the process of 
+    gathering and analyzing data. We finish with a discussion of our 
+    takeaways from the project.
 
 - title: Digital Archives Documentation
   url: >-
     https://nypl.github.io/digarch/
   author: >-
     Alison Rhonemus, Caroline Gil, Nick Krabbenhoeft
-  publisher: 
+  publisher: NYPL
   date: 2021-ongoing
   desc: >-
+    Ongoing public documentation for the workflows, equipment, and
+    collaborations of the NYPL Digital Archives program.
 
 - title: ETD Lifecycle Management Tools Manual
   url: >-
@@ -24,6 +42,10 @@
   publisher: Educopia Publishing
   date: 2014-09-30
   desc: >-
+    The Manual provides resources and instruction for tools in 
+    five major areas of lifecycle curation for ETDs, including:
+    virus checking, file format identification, preservation metadata,
+    ETD submission, and reference link archiving.
 
 - title: Nexus Recommendations for Action
   url: >-
@@ -33,6 +55,10 @@
   publisher: Educopia Publishing
   date: 2014-08-27
   desc: >-
+    This paper draws together the recommendations assembled from a
+    June 2014 assembly of library leadership teachers and professional
+    organizations to analyze the opportunities to improve library
+    leadership training opportunities.
     
 - title: "Checking Your Digital Content: What is Fixity, and When Should I be Checking It?"
   url: >-
@@ -45,6 +71,9 @@
   publisher: NDSA
   date: 2014-10-07
   desc: >-
+    This collaborative documents sets out the reasons and methods to
+    check the stability of digital objects, otherwise known as fixity
+    checking.
     
 - title: Training the 21st Century Library Leader
   url: >-
@@ -54,7 +83,13 @@
   publisher: Educopia Publishing
   date: 2014-04-08
   desc: >-
-    
+    This paper analyzes the US library leadership training environment
+    based on a <a href="http://metaarchive.org/public/publishing/Nexus_Data_Version_1.zip">
+    dataset</a> covering the locations, curriculums, and costs of 
+    training workshops between 1998 and 2013. It offers initial
+    suggestions for improved library leadership training curricula
+    needed to address current needs.
+
 - title: Guidance Documents for Lifecycle Management of ETDs
   url: >-
     http://educopia.org/publications/gdlmetd
@@ -63,6 +98,10 @@
   publisher: Educopia Publishing
   date: 2014-03-31
   desc: >-
+    This multi-chapter volume brings together voices of experts in ETD
+    program management to describe approaches to all aspects of 
+    electronic theses and dissertation workflows from submission to 
+    management and access.
     
 - title: "Chronicles in Preservation: Preserving Digital News and Newspapers"
   url: >-
@@ -72,4 +111,6 @@
   publisher: Preservation, Digital Technology & Culture
   date: 2013-11
   desc: >-
+    This manual sets forth grades of practice to improve workflows for
+    managing digitized newspapers.
     

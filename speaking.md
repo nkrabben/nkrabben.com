@@ -11,7 +11,7 @@ permalink: /speaking/
 		<p class="about">{% if pres.conf_url %}<a href="{{ pres.conf_url }}">{{ pres.conf }}</a>{% else %}{{ pres.conf }}{% endif %}, {{ pres.conf_loc}}, {{pres.date | date: "%Y %b %d" }}<br />Presenter(s): {{ pres.author }}</p>
 		{% if pres.desc %}<a class="accordion-toggle btn btn-info" data-toggle="collapse" data-text-swap="Hide Details" href="#desc{{ forloop.index }}">Show Details</a>
 		<div id="desc{{ forloop.index }}" class="accordion-body collapse">
-			<p>Summary: {{ pres.desc }}</p>
+			<p>{{ pres.desc }}</p>
 		</div>{% endif %}
 	</div>{% endfor %}
 </div>
