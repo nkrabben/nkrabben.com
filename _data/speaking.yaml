@@ -1,3 +1,107 @@
+- title: What is the Standard Format for Digitized Audio? Approaches for Storing Complex Audio Objects
+  author: >-
+    Nick Krabbenhoeft
+  conf: iPres 2019
+  conf_loc: Amsterdam, Netherlands
+  date: 09/2019
+  desc: >-
+
+- title: Moving from Reacting to Readiness
+  author: >-
+    Nick Krabbenhoeft
+  conf: Now! And Then? Preserving Modern and Contemporary Collections in Libraries and Archives 2018
+  conf_loc: NYC, NY
+  date: 10/2018
+  desc: >-
+
+- title: Digital Curation Workflows Based on Open-Source Software
+  author: >-
+    Cal Lee, Kari Smith, and Nick Krabbenhoeft
+  conf: iPres 2018
+  conf_loc: Boston, MA
+  date: 09/2018
+  desc: >-
+
+- title: "PRONOM in Practice: Creating File Format/System Signatures for Submission to PRONOM Technical Registry"
+  author: >-
+    David Clipsham, Nick Krabbenhoeft, Shira Peltzman, Justin Simpson, Carl Wilson
+  conf: iPres 2018
+  conf_loc:  Boston, MA
+  date: 09/2018
+  desc: >-
+
+- title: "Format Lifecycle Analysis: Visualizing the Rise and Fall of File Format Populations"
+  author: >-
+    Nick Krabbenhoeft
+  conf: iPres 2018
+  conf_loc: Boston, MA
+  date: 09/2018
+  desc: >-
+
+- title: Stay JSON Schemin’
+  author: >-
+    Genevieve Havemeyer-King and Nick Krabbenhoeft
+  conf: Code4Lib 2018
+  conf_loc: Washington, DC
+  date:  03/2018
+  desc: >-
+
+- title: BagIt Fixer-Upper
+  author: >-
+    Nick Krabbenhoeft
+  conf: iPres 2017
+  conf_loc: Kyoto, Japan
+  date:  09/2017
+  desc: >-
+
+- title: "Digital Collection Care: Working with Invalid TIFF Files"
+  author: >-
+    Nick Krabbenhoeft
+  conf: NDSA 2016
+  conf_loc: Milwaukee, WI
+  date: 11/2016
+  desc: >-
+
+- title: We Lost a File
+  author: >-
+    Krabbenhoeft
+  conf: PASIG 2016 NYC
+  conf_loc:  York City, NY
+  date: 10/2016
+  desc: >-
+
+- title: Open Preservation Foundation Community Survey 2015
+  author: >-
+    Ed Fay, Becky McGuiness, Carl Wilson, and Nick Krabbenhoeft
+  conf: iPres 2015
+  conf_loc: Chapel Hill, NC
+  date: 11/2015
+  desc: >-
+
+- title: When Students Want to Submit More Than a PDF
+  author: >-
+    Nick Krabbenhoeft,Katherine Skinner
+  conf: USetdA 2015
+  conf_loc: Austin, TX
+  date: 09/2015
+  desc: >-
+
+- title: Lifecycle Management of ETDs Workshop
+  author: >-
+    Nick Krabbenhoeft
+  conf: USetdA 2015
+  conf_loc: Austin, TX
+  date: 09/2015
+  desc: >-
+
+- title: "And the Survey Says: Lessons from Past Digital Preservation Surveys"
+  author: >-
+    Nick Krabbenhoeft
+  conf: New England NDSA 2015
+  conf_loc: Dartmouth, MA
+  date: 2015-09
+  desc: >-
+
 - title: Encoded Archival Context - Challenges, Possibilities, and Future (EAC-CPF)
   url: >-
 
@@ -18,7 +122,7 @@
   date: 2014-04
   desc: >-
 
-- title: AMNHEAC-CPFXML.XLS
+- title: "AMNHEAC-CPFXML.XLS"
   url: >-
 
   author: >-
@@ -27,15 +131,17 @@
   conf_url: 
   date: 2013-10
   desc: >-
-- title: "WCBN and UM SAA: Potential Pitfalls in Student Projects"
+
+- title: "WCBN and UM SAA: Potential Pitfalls in Student Projects" 
   url: >-
-    
+
   author: >-
     Nick Krabbenhoeft
   conf: Michigan Archival Association
   conf_url: 
   date: 2013-07
   desc: >-
+
 - title: Modular Curation for ETD Repositories
   url: >-
 
@@ -45,22 +151,27 @@
   conf_url: 
   date: 2013-07
   desc: >-
+
 - title: "Chronicles in Preservation: Preserving Digital News and Newspapers"
+  url: >-
+
   author: >-
     Matt Schultz, Nick Krabbenhoeft 
   conf: American Library Association 2013
   conf_url: 
   date: 2013-06
   desc: >-
+
 - title: Data Curation on a Trip to the Stars
   url: >-
-    
+
   author: >-
     Nick Krabbenhoeft
   conf: Converge and Ingest 2012
   conf_url: 
   date: 2012-10
   desc: >-
+
 - title: Data Management Plans in Space
   author: >-
     Nick Krabbenhoeft
