@@ -53,7 +53,7 @@
     - title: Digital Repository Software
       url: 
       startdate: 2016-05-01
-      enddate: 
+      enddate: 2021-06-30
       purpose: >-
         Selecting software to centralize management of NYPL's digital collections.
       tasks:
@@ -103,6 +103,8 @@
         - >-
           Develop live-coding exercises to introduce command-line tools.
         - Lead optional workshops on using Python and ffmpeg with digital collections.
+        - >-
+          Flip classroom by creating asynchronous lecture videos and more interactive Zoom sessions in response to COVID-19.
 - position: Project Manager
   company: Educopia Institute
   company_url: http://www.educopia.org
