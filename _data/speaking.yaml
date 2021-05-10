@@ -1,98 +1,249 @@
 - title: What is the Standard Format for Digitized Audio? Approaches for Storing Complex Audio Objects
+  url: https://osf.io/xr7ue/#!
   author: >-
     Nick Krabbenhoeft
   conf: iPres 2019
+  conf_url: https://ipres2019.org/
   conf_loc: Amsterdam, Netherlands
-  date: 09/2019
+  date: 09-2019
   desc: >-
+    The best practices for representing 
+    analog audio with digital bitstreams are relatively 
+    clear. Sample the signal with 24 bits of resolution at 
+    96KHz. The standards for storing the data are less clear, 
+    especially for media with complex configurations of 
+    faces, regions, and streams. Whether accomplished 
+    through metadata and/or file format, the strategy 
+    chosen to represent the complexity of the original 
+    media has long-term preservation implications. Best 
+    practice guides rarely document these edge cases and 
+    informal discussions with practitioners have revealed 
+    a wide range of practices. This paper aims to outline 
+    the specific challenges of representing complex audio 
+    objects after digitization and approaches that have 
+    been implemented but not widely adopted.
 
 - title: Moving from Reacting to Readiness
   author: >-
     Nick Krabbenhoeft
-  conf: Now! And Then? Preserving Modern and Contemporary Collections in Libraries and Archives 2018
+  conf: Now! And Then? Preserving Modern and Contemporary Collections in Libraries and Archives
+  conf_url: https://myemail.constantcontact.com/Save-the-Date--Modern-and-Contemporary-Conference-2018.html?soid=1123159534168&aid=XgcYYTbtN6g
   conf_loc: NYC, NY
-  date: 10/2018
+  date: 10-2018
   desc: >-
+    Digital preservation is easier to accomplish when it is
+    considered at the beginning of a project. Working with
+    vendors to receive fixity information, employ lossless compression,
+    and use quality control software prepares a digitization 
+    project for long-term collection management success.
 
 - title: Digital Curation Workflows Based on Open-Source Software
+  url: https://osf.io/tgvck/
   author: >-
     Cal Lee, Kari Smith, and Nick Krabbenhoeft
   conf: iPres 2018
+  conf_url: https://ipres2018.org/
   conf_loc: Boston, MA
-  date: 09/2018
+  date: 09-2018
   desc: >-
+    This workshop will focus on the development and implementation
+    of workflows for digital curation, focusing specifically on those 
+    that incorporate open-source software. The facilitators are part 
+    of the Open Source Software Archival Workflow (OSSArcFlow) project, 
+    which brings together researchers, developers of three major 
+    OSS digital stewardship systems, and digital stewards at twelve 
+    partner institutions including government archives, research 
+    institutes, and academic and public libraries.
 
 - title: "PRONOM in Practice: Creating File Format/System Signatures for Submission to PRONOM Technical Registry"
+  url: https://osf.io/2jbpe/#! 
   author: >-
     David Clipsham, Nick Krabbenhoeft, Shira Peltzman, Justin Simpson, Carl Wilson
   conf: iPres 2018
+  conf_url: https://ipres2018.org/
   conf_loc:  Boston, MA
-  date: 09/2018
+  date: 09-2018
   desc: >-
+    Based on a series of online workshops presented by the Open 
+    Preservation Foundation in 2017, this workshop that will equip 
+    participants with the tools required to submit new entries 
+    to PRONOM. Participants will learn the theory behind format 
+    signatures, how signatures are created, and how they are 
+    shared and used. Each of the workshop’s topics is explained 
+    through both lecture and demonstration. Participants engage 
+    directly in the signature development process through a 
+    series of hands-on activities, using a set of sample files 
+    provided by the workshop. Participants will examine these files 
+    with hex editors, compare their contents to existing 
+    specifications, create draft signatures in XML, and test them 
+    using format identification tools such as FIDO and Siegfried. 
+    Workshop leaders will also share strategies and resources on 
+    how to engage the wider community for assistance. The workshop 
+    will help participants gain practical skills in appraisal 
+    and analysis of digital files. This relevant real-world 
+    experience will help to foster a more knowledgeable user base 
+    and improve the the PRONOM registry. To close the workshop, 
+    participants will have the opportunity to practice their skills 
+    using files from their own collections that are not identified 
+    in PRONOM tools. Instructors will be available to answer questions 
+    as participants explore their files.
 
 - title: "Format Lifecycle Analysis: Visualizing the Rise and Fall of File Format Populations"
+  url: https://osf.io/fyrk7/#!
   author: >-
     Nick Krabbenhoeft
   conf: iPres 2018
+  conf_url: https://ipres2018.org/
   conf_loc: Boston, MA
-  date: 09/2018
+  date: 09-2018
   desc: >-
+    A format is created, becomes widely used, and eventually fades 
+    away. File format obsolescence lies at the core of many digital
+    preservation narratives, but does the field know what obsolescence 
+    looks like. This demonstration explores the issue of obsolescence 
+    with tools that can be used to see the rise and fall of formats 
+    in an institution’s collection and potentially distinguish a 
+    local extirpation from a mass extinction. By demonstrating the 
+    information about format endangerment that can be derived and 
+    the tools used to derived it, this demonstration aims to 
+    encourage a practice of sharing file format profiles of 
+    collections that can be used to better understand the lifecycles 
+    of file formats and inform better format management practices.
 
 - title: Stay JSON Schemin’
+  url: https://2018.code4lib.org/talks/stay-json-schemin-an-opensource-metadata-validation-workflow-for-largescale-media-preservation-projects
   author: >-
     Genevieve Havemeyer-King and Nick Krabbenhoeft
   conf: Code4Lib 2018
+  conf_url: https://2018.code4lib.org/
   conf_loc: Washington, DC
-  date:  03/2018
+  date: 03-2018
   desc: >-
+    There are a number of resources such as PBCore and AE-57 
+    for defining metadata specifications for a digitization 
+    project, but there are very few resources on how to ensure 
+    that the metadata you receive meets your specifications. 
+    This presentation outlines an approach taken using JSON Schema 
+    to validate the metadata produced by in-house and external 
+    labs across multiple projects while digitizing a quarter-million 
+    audio, video, and film media. After discussing our initial use 
+    of spreadsheets, the problems they solved, and the problems 
+    they caused, we will introduce our metadata schema and demonstrate
+    how we use it for validation. Particularly important, we will 
+    discuss how we maintain and update the schema over time, and 
+    how its use has strengthened our preservation workflows. 
 
 - title: BagIt Fixer-Upper
   author: >-
     Nick Krabbenhoeft
   conf: iPres 2017
+  conf_url: http://www-archive.cseas.kyoto-u.ac.jp/ipres2017.jp/
   conf_loc: Kyoto, Japan
-  date:  09/2017
+  date: 09-2017
   desc: >-
+    The New York Public Library has created over 1.5 PB of files from
+    digitizing over 50,000 audio and video items for the long-term
+    preservation of their content. This paper details the Library’s usage
+    of the BagIt File Packaging Format during Quality Assurance and
+    Audit Submissions functions as defined by OAIS. It also discusses
+    extensions of the bagit-python library in order repair bags that do
+    not pass those functions.
+    Working with thousands of terabytes stored in hundreds of thousands 
+    of bags requires that our approaches to ingest scale appropriately. 
+    Common changes to bags such as the accidental creation
+    of system files in bags or purposeful edits of metadata files will
+    invalidate the entire bag. Noting and responding to these errors is
+    critical for improving workflows, but manual response is impossible. 
+    Using the bagit-python library, NYPL has created tools to
+    selectively clean system files from bag directories and manifests,
+    update or add checksums, and create event logs of repairs.
 
 - title: "Digital Collection Care: Working with Invalid TIFF Files"
   author: >-
     Nick Krabbenhoeft
   conf: NDSA 2016
+  conf_url: https://www.diglib.org/dlf-events/2016forum/ndsa-digipres16/
   conf_loc: Milwaukee, WI
-  date: 11/2016
-  desc: >-
+  date: 11-2016
 
 - title: We Lost a File
   author: >-
     Krabbenhoeft
   conf: PASIG 2016 NYC
-  conf_loc:  York City, NY
-  date: 10/2016
+  conf_url: https://library.stanford.edu/projects/preservation-and-archiving-special-interest-group/international-meetings/october-2016-new
+  conf_loc: York City, NY
+  date: 10-2016
   desc: >-
+    A lightning talk about using BagIt completeness checks to quickly 
+    identify file losses in an unmanaged staging area.
 
 - title: Open Preservation Foundation Community Survey 2015
+  url: https://phaidra.univie.ac.at/view/o:429524
   author: >-
     Ed Fay, Becky McGuiness, Carl Wilson, and Nick Krabbenhoeft
   conf: iPres 2015
+  conf_url: https://ipres2015.web.unc.edu/
   conf_loc: Chapel Hill, NC
-  date: 11/2015
+  date: 11-2015
   desc: >-
+    This poster will present the headline results from the Open 
+    Preservation Community Survey 2015, which surveyed over 130 
+    institutions around the world to establish the current state of the 
+    art in digital preservation practice. The survey focused on 
+    technology adoption and real-world infrastructure and 
+    architectures, including demographics about the type and size of 
+    the responding institution. The responses include: staff roles and 
+    allocations; core digital preservation activities; content types
+    accepted for long-term management; storage capacity and models; 
+    use of the cloud and consortial solutions; use of open source; 
+    repository and workflow systems; and tool adoption. The survey 
+    did not ask about policies or costs. In addition, comparisons are 
+    drawn with the PLANETS survey [1] from 2009 to show changes 
+    in requirements and practice over time. The published analysis 
+    and raw data will be forthcoming by the end of 2015. 
+
 
 - title: When Students Want to Submit More Than a PDF
+  url: https://www.usetda.org/wp-content/uploads/2015/09/USETDA-2015-program_online_with_bios.pdf
   author: >-
-    Nick Krabbenhoeft,Katherine Skinner
+    Nick Krabbenhoeft, Katherine Skinner
   conf: USetdA 2015
+  conf_url: https://www.usetda.org/usetda-conferences/usetda-2015/
   conf_loc: Austin, TX
-  date: 09/2015
+  date: 09-2015
   desc: >-
+    The adoption of Electronic Thesis & Dissertations (ETD) programs in 
+    colleges and universities has moved the ETD copy of record from
+    analog to digital. In many cases, it has also offered the 
+    opportunity for students to move from text to a format that
+    better represented their work. 
+    Previously these other representations were shoehorned into text or 
+    physical forms, for example, printing a dataset as an appendix, 
+    describing a music recital, or taping a CD to the back cover. With
+    ETD’s, students can submit the original supplementary materials
+    alongside the text, but doing so increases the complexity of the 
+    workflow for both the student and the school.
 
 - title: Lifecycle Management of ETDs Workshop
+  url: https://www.usetda.org/wp-content/uploads/2015/09/USETDA-2015-program_online_with_bios.pdf
   author: >-
     Nick Krabbenhoeft
   conf: USetdA 2015
+  conf_url: https://www.usetda.org/usetda-conferences/usetda-2015/
   conf_loc: Austin, TX
-  date: 09/2015
+  date: 09-2015
   desc: >-
+    This workshop provides an overview of lifecycle management 
+    as it applies to ETD program planning & implementation.
+    It incorporates a series of models, documents, and curation 
+    tools with input from attendees to better understand the 
+    relationship of curation activities and stakeholders in an 
+    overall ETD program. Attendees will gain a clear 
+    understanding of the ETD lifecycle and how to use the deliverables 
+    produced by the IMLS-funded Lifecycle Management of ETDs project. 
+    It will also introduce concepts regarding the management of 
+    supplementary files that are being explored as part of the
+    follow-up ETDplus project.
 
 - title: "And the Survey Says: Lessons from Past Digital Preservation Surveys"
   author: >-
@@ -100,82 +251,64 @@
   conf: New England NDSA 2015
   conf_loc: Dartmouth, MA
   date: 2015-09
-  desc: >-
 
-- title: Encoded Archival Context - Challenges, Possibilities, and Future (EAC-CPF)
-  url: >-
-
+- title: "Encoded Archival Context - Challenges, Possibilities, and Future (EAC-CPF)"
   author: >-
     Iris Lee, Nick Krabbenhoeft
   conf: Society of American Archivists 2015
-  conf_url: 
+  conf_url: https://www2.archivists.org/am2015
+  conf_loc: Washington, DC
   date: 2014-08
-  desc: >-
     
-- title: "Clear as Glass: Controlling the Data Generated by Wearable Technology"
-  url: >-
-
+- title: "Clear as Glass: Controlling the Data Generated by Wearable Technology" 
   author: >-
     Nick Krabbenhoeft
   conf: Personal Digital Archiving 2014
-  conf_url: 
+  conf_url: http://visions.indstate.edu/pda2014/conference-program.html
+  conf_loc: Indianapolis, IN
   date: 2014-04
-  desc: >-
 
 - title: "AMNHEAC-CPFXML.XLS"
-  url: >-
-
   author: >-
     Nick Krabbenhoeft
   conf: NY Code4Lib
-  conf_url: 
+  conf_loc: NYC, NY
   date: 2013-10
-  desc: >-
 
 - title: "WCBN and UM SAA: Potential Pitfalls in Student Projects" 
-  url: >-
-
   author: >-
     Nick Krabbenhoeft
-  conf: Michigan Archival Association
-  conf_url: 
+  conf: Michigan Archival Association 2013
+  conf_url: https://miarchivists.files.wordpress.com/2016/02/maa_2013_program_final.pdf
+  conf_loc: Ann Arbor, MI
   date: 2013-07
-  desc: >-
 
 - title: Modular Curation for ETD Repositories
-  url: >-
-
   author: >-
     Matt Schultz, Stephen Eisenhaur, Nick Krabbenhoeft 
   conf: Open Repositories 2013
-  conf_url: 
+  conf_url: https://or2013.net/
   date: 2013-07
-  desc: >-
 
 - title: "Chronicles in Preservation: Preserving Digital News and Newspapers"
-  url: >-
-
   author: >-
     Matt Schultz, Nick Krabbenhoeft 
   conf: American Library Association 2013
-  conf_url: 
+  conf_url: http://www.ala.org/alcts/events/ac/2013
+  conf_loc: Chicago, IL
   date: 2013-06
-  desc: >-
 
 - title: Data Curation on a Trip to the Stars
-  url: >-
-
   author: >-
     Nick Krabbenhoeft
   conf: Converge and Ingest 2012
-  conf_url: 
+  conf_loc: Detroit, MI
   date: 2012-10
-  desc: >-
 
 - title: Data Management Plans in Space
   author: >-
     Nick Krabbenhoeft
-  conf: Michigan Archival Association
-  conf_url: 
+  conf: Society of American Archivists 2012
+  conf_url: https://www2.archivists.org/conference/2012/san-diego
+  conf_loc: San Diego, CA
   date: 2012-08
-  desc: >-
