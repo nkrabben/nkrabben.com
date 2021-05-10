@@ -1,0 +1,53 @@
+- title: LIS655 Digital Preservation and Curation
+  author: >-
+    Nick Krabbenhoeft
+  editions: Fall/Spring 2017 Ongoing
+  url:
+  desc: >-
+    Teach 15-week, 3-credit course on digital collection lifecycle from acquisition through management to access. 
+    Developed weekly tool experimentation and assessment modules to promote student digital literacy.
+    Incorporated flipped classroom methodology to better support student discussion and online-learning fatigue
+
+- title: Committing to documentation
+  author: >-
+    Genevieve Havemeyer-King, Alison Rhonemus, Nick Krabbenhoeft
+  editions: Code4Lib 2021, AMIA 2021
+  url: https://ctodocs.github.io/ctod/
+  desc: >-
+    Co-developed and taught 4-hour workshop on good practices in technical writing for program documentation
+
+
+- title: ffmpeg Art School
+  author: >-
+    Genevieve Havemeyer-King, Morgan Morel, Ben Turkus
+  editions: Code4Lib 2021, AMIA 2021
+  url: https://amiaopensource.github.io/ffmpeg-artschool/
+  desc: >-
+    Built Windows analogs for all Mac/Linux workshop materials and provided technical support
+
+- title: Python for AV Carpentry
+  author: >-
+    Ben Turkus, Nick Krabbenhoeft
+  editions: AMIA 2019, Pratt Institute 2019, MIAP 2020
+  url: https://amiaopensource.github.io/av-python-carpentry/
+  desc: >-
+    Co-developed and taught interactive 5-hour workshop using Python, ffmpeg, mediainfo, and Jupyter Lab notebooks
+
+- title: Metadata in Digitization Workflows
+  author: >-
+    Nick Krabbenhoeft
+  editions: NYU MIAP 2018, 2019, 2020, 2021
+  url: 
+  desc: >-
+    Guest lectures on the opportunities and methods to record metadata during digitization processes
+
+- title: DigitalPOWRR Guest Lecture
+  author: >-
+    Nick Krabbenhoeft
+  editions: Arizona 2018, Washington DC 2019
+  url: 
+  desc: >-
+    Taught modules on fixity and quality assurance in digital collection acquisition
+    Consulted on POWRR plans for 6 organizations to assess and improve their digital collection management
+
+
